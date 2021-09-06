@@ -36,9 +36,9 @@ fn main() {
 
     let s1 = "Hello";
 
-    takes_ownership(s2.to_string());
+    takes_ownership(s1.to_string());
 
-    println!("{}", s2);
+    println!("{}", s1);
 
     //스트링 레터럴을 String으로 변환 시킨 후 사용
 
