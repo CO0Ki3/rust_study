@@ -26,7 +26,7 @@ fn main() {
     println!("{}", not_dangle);
 
     //slice
-    let mut s = String::from("one two three");
+    let s = String::from("one two three");
 
     let word = first_word(&s);
 
