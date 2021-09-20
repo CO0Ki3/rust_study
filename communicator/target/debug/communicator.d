@@ -1,0 +1,1 @@
+/Users/co0ki3/Desktop/rust/communicator/target/debug/communicator: /Users/co0ki3/Desktop/rust/communicator/src/client.rs /Users/co0ki3/Desktop/rust/communicator/src/lib.rs /Users/co0ki3/Desktop/rust/communicator/src/main.rs /Users/co0ki3/Desktop/rust/communicator/src/network/mod.rs /Users/co0ki3/Desktop/rust/communicator/src/network/server.rs
